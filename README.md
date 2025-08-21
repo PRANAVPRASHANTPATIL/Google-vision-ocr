@@ -1,12 +1,19 @@
 # Google-vision-ocr
 This project is a simple Node.js script that uses Google Cloud Vision API to extract text from an image (like a prescription or document). It’s meant as a proof of concept to test if Google Vision OCR works correctly before building a larger system. (for using this project students need to make their own key.json file in project folder which will have google vision key )
+
 📂 Current Project Structure
 vision-ocr-test/
+
 │── node_modules/          # Installed dependencies
+
 │── key.json               # Google Vision API credentials
+
 │── ocr.js                 # Main script that runs OCR on an image
+
 │── package.json           # Project metadata & dependencies
+
 │── package-lock.json      # Auto-generated dependency tree
+
 │── sample.jpg             # Test image used for OCR
 
 ⚙️ Features (Current Stage)
