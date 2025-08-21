@@ -23,7 +23,7 @@ OCR Engine: Google Cloud Vision API
 
 🚀 Setup Instructions
 1️⃣ Clone Repository
-git clone https://github.com/YOUR_USERNAME/vision-ocr-test.git
+git clone gh repo clone PRANAVPRASHANTPATIL/Google-vision-ocr
 cd vision-ocr-test
 
 2️⃣ Install Dependencies
